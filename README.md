@@ -11,9 +11,9 @@ Getting Started
 
 These samples use the Gradle build system.
 
-First download the samples by cloning this repository or downloading an archived snapshot. (See the options at the top of the page.)
+First download the samples by cloning this repository or downloading an archived snapshot.
 
-In Android Studio, use the "Import non-Android Studio project" or "Import Project" option. Next select one of the sample directories that you downloaded from this repository. If prompted for a gradle configuration accept the default settings.
+In Android Studio, use the "Import Android Studio project" or "Import Project" option. Next select one of the sample directories that you downloaded from this repository. If prompted for a gradle configuration accept the default settings.
 
 Run a sample
 
@@ -29,7 +29,3 @@ Run the app
 Device
 
 adb -d install path/to/sample.apk
-
-Issues
-
-Find a bug or want to request a new feature enhancement? Please let us know by submitting an issue.
