@@ -5,7 +5,7 @@ The master branch of this repository contains application on WeatherForecast.
 Prerequisites
 
 The samples are building with compileSdkVersion 23 which requires JDK 7 or higher
-Android Studio
+Android Studio.
 
 Getting Started
 
